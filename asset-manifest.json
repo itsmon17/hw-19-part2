@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hw-19-part2/static/css/main.06a3b2c2.css",
+    "main.js": "/hw-19-part2/static/js/main.82cd9ce2.js",
+    "static/media/1056159.jpg": "/hw-19-part2/static/media/1056159.63e813150097ea8eeed5.jpg",
+    "index.html": "/hw-19-part2/index.html",
+    "main.06a3b2c2.css.map": "/hw-19-part2/static/css/main.06a3b2c2.css.map",
+    "main.82cd9ce2.js.map": "/hw-19-part2/static/js/main.82cd9ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a3b2c2.css",
+    "static/js/main.82cd9ce2.js"
+  ]
+}
